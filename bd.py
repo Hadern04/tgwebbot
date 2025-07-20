@@ -9,7 +9,7 @@ from threading import Thread
 import jinja2
 
 # Вставьте ваш токен
-API_TOKEN = "8007919307:AAGkp0nCaIaAFxlS9t7XSLQNewX8vY0dKCU"
+API_TOKEN = ""
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
